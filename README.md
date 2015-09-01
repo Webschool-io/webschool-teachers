@@ -11,6 +11,15 @@ O Professor precisará editar suas aulas e subir elas em nosso canal apenas apó
 
 Nossa marca d´água a ser inserida em seus vídeos é essa:
 
-![Webschool LOGO]()
+![Webschool LOGO](https://raw.githubusercontent.com/Webschool-io/webschool-teachers/master/watermark/watermark-webschool.png)
 
+**Indicamos a você colocar a marca d´água no canto superior direito.
+
+Igual o professor [Caio Cutrim]() fez, pois o canal automaticamente colocará nosso logo no canto inferior direito, porém não iremos depender do Youtube e nossos cursos ficarão disponíveis via **TORRENT** então só aceitaremos os vídeos em que o professor adicionou [essa marca d´água](https://raw.githubusercontent.com/Webschool-io/webschool-teachers/master/watermark/watermark-webschool.png)
+
+Caso queira ver um exemplo rodando acesse: [https://www.youtube.com/watch?v=WgqXpg8W_E0](https://www.youtube.com/watch?v=WgqXpg8W_E0).
+
+Qualquer dúvida você pode criar uma [issue aqui](https://github.com/Webschool-io/webschool-teachers/issues)
+
+A definição de qualidade do vídeo será passada ainda essa semana!
 
