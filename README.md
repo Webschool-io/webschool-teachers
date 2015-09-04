@@ -23,6 +23,14 @@ Qualquer dúvida você pode criar uma [issue aqui](https://github.com/Webschool-
 
 A definição de qualidade do vídeo será passada ainda essa semana!
 
+### Dicas para gravar
+
+Existem infinitos softwares que podem ser utilizados para gravar os seus vídeos.
+
+Como uma opção Open Source e Multiplataforma, é possível utilizar o [Open Broadcaster Software](https://obsproject.com/).
+
+Assista um breve tutorial de como utilizá-lo: [https://www.youtube.com/watch?v=R-Z9tgFqp34](https://www.youtube.com/watch?v=R-Z9tgFqp34).
+
 ## O Conteúdo
 
 Deverá ser criado um repositório com o nome (curso|workshop)-nomeDoCurso, por exemplo [https://github.com/Webschool-io/workshop-js-funcional-free](https://github.com/Webschool-io/workshop-js-funcional-free).
