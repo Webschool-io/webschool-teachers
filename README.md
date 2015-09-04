@@ -23,3 +23,9 @@ Qualquer dúvida você pode criar uma [issue aqui](https://github.com/Webschool-
 
 A definição de qualidade do vídeo será passada ainda essa semana!
 
+## O Conteúdo
+
+Deverá ser criado um repositório com o nome (curso|workshop)-nomeDoCurso, por exemplo [https://github.com/Webschool-io/workshop-js-funcional-free](https://github.com/Webschool-io/workshop-js-funcional-free).
+
+Nesse mesmo repositório você pode se basear no modelo do seu conteúdo ou se preferir separar cada tema em separado e na listagem dos tópicos no README.md você coloque o link para cada, mas sempre deixe todo o conteúdo no README.md também pois o aluno pode apenas entrar no repositório e começar a estudar.
+
