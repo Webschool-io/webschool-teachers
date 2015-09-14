@@ -29,7 +29,7 @@ Existem infinitos softwares que podem ser utilizados para gravar os seus vídeos
 
 Como uma opção Open Source e Multiplataforma, é possível utilizar o [Open Broadcaster Software](https://obsproject.com/).
 
-Assista um breve tutorial de como utilizá-lo: [https://www.youtube.com/watch?v=R-Z9tgFqp34](https://www.youtube.com/watch?v=R-Z9tgFqp34).
+Assista um breve tutorial de como utilizá-lo: [https://www.youtube.com/watch?v=R-Z9tgFqp34](https://www.youtube.com/watch?v=aR8UNl6oZzw).
 
 ## O Conteúdo
 
